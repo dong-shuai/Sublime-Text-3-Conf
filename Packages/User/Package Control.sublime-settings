@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Git",
+		"GitGutter",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Modific",
+		"Oracle PL SQL",
+		"Package Control",
+		"PlainTasks",
+		"SFTP",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeREPL",
+		"Sublimerge Pro"
+	]
+}
